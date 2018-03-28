@@ -1969,3 +1969,8 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+
+
+## Youtube
+-  https://www.youtube.com/watch?v=8mYfZeHtdNc&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8
+-  https://www.youtube.com/watch?v=8mYfZeHtdNc&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX
