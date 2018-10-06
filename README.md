@@ -12,6 +12,7 @@
 
 Translations:
 - https://github.com/StephenGrider/AlgoCasts
+- https://github.com/vaquarkhan/CtCI-6th-Edition/tree/master/Java
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
