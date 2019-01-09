@@ -1976,3 +1976,4 @@ Sit back and enjoy. "Netflix and skill" :P
 ## Youtube
 -  https://www.youtube.com/watch?v=8mYfZeHtdNc&list=PLxc4gS-_A5VDXUIOPkJkwQKYiT2T1t0I8
 -  https://www.youtube.com/watch?v=8mYfZeHtdNc&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX
+- https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&app=desktop
